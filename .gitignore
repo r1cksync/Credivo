@@ -1,6 +1,5 @@
 # ── Sensitive / personal ──────────────────────────────────────────────────────
 prompt.txt
-credentials.txt
 deploy.ps1
 redeploy.ps1
 redeploy2.ps1
