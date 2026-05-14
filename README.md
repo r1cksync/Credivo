@@ -19,6 +19,8 @@
 
 📹 **[`demo/final_demo.mp4`](demo/final_demo.mp4)** — 9 MB · ~5 min · 1280×720 · `en-US-AndrewMultilingualNeural` narration
 
+Video drive link - https://drive.google.com/file/d/1QIVqU-tiP0gHxNTnProuxR7oOomlmReA/view?usp=sharing
+
 ---
 
 ## 🗺 Architecture
