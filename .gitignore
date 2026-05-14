@@ -1,0 +1,69 @@
+# ── Sensitive / personal ──────────────────────────────────────────────────────
+prompt.txt
+credentials.txt
+deploy.ps1
+redeploy.ps1
+redeploy2.ps1
+
+# ── Node / npm ────────────────────────────────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# ── TypeScript build output ───────────────────────────────────────────────────
+dist/
+build/
+*.tsbuildinfo
+
+# ── Next.js ───────────────────────────────────────────────────────────────────
+.next/
+out/
+
+# ── Environment variables ─────────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+# keep examples so devs know what vars are needed
+!.env.example
+
+# ── Vercel ────────────────────────────────────────────────────────────────────
+.vercel/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+.eggs/
+
+# ── Demo artefacts (large generated files) ────────────────────────────────────
+demo/recording/
+demo/audio_segments/
+demo/audio_combined.mp3
+demo/narration_full.mp3
+demo/final_demo.mp4
+demo/segment_durations.json
+demo/__pycache__/
+
+# ── OS artefacts ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor ────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+logs/
+*.log
+
+# ── Misc ─────────────────────────────────────────────────────────────────────
+.sixth/
